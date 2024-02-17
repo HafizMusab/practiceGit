@@ -1,2 +1,2 @@
 # practiceGit
-this is practice file of git on readme-----------
+this is practice file of readme on gitHub----------
